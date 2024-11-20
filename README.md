@@ -46,15 +46,6 @@ If you'd like to run the code or tests yourself, follow these steps:
    npm test
    ```
 
-## 💡 Lessons Learned
-
-Through these exercises, I’ve had the opportunity to strengthen my skills in:
-
-- Writing clean and efficient JavaScript code.
-- Understanding and implementing fundamental programming concepts.
-- Debugging and testing with a structured approach.
-- Adopting best practices for software development.
-
 ## 📝 License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
