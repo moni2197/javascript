@@ -1,5 +1,3 @@
-
-
 # Exercism JavaScript Exercises
 
 Welcome to my **Exercism JavaScript Exercises** repository! This repository contains my solutions to various JavaScript challenges from [Exercism](https://exercism.org), an open-source platform designed to help programmers improve their skills through problem-solving and mentorship.
@@ -17,10 +15,12 @@ Each folder represents a specific exercise, containing the solution files, test 
 - **mixed-juices**: Practice with objects, functions, and JavaScript syntax.
 - **poetry-club-door-policy**: Text manipulation and string handling.
 - **vehicle-purchase**: Logical operations and conditions.
+- **high-school-board**: This learning exercise helped evolve your knowledge of Objects.
 
 ## 🛠️ Technology Used
 
 This repository primarily utilizes:
+
 - **JavaScript**: The programming language for all solutions.
 - **Node.js**: Environment for running and testing JavaScript code.
 - **Jest**: Testing framework for validating the solutions.
@@ -49,6 +49,7 @@ If you'd like to run the code or tests yourself, follow these steps:
 ## 💡 Lessons Learned
 
 Through these exercises, I’ve had the opportunity to strengthen my skills in:
+
 - Writing clean and efficient JavaScript code.
 - Understanding and implementing fundamental programming concepts.
 - Debugging and testing with a structured approach.
